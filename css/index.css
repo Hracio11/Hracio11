@@ -32,6 +32,7 @@ h2{
 
 p{
   font: var(--button);
+
 }
 header{
  margin: 0 0 20px;
@@ -71,10 +72,18 @@ button{
 h3 {
   text-align: center;
   color: var(--white);
-  background: var(--primary);
-  
+ 
 }
 h5 {
   text-align: center;
   color: var(--white);
+}
+.habla {
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+  top: 500px;
+  background: var(--primary);
+  box-shadow: -5px 5px var(--white);
+  margin-bottom: 15px;
 }
